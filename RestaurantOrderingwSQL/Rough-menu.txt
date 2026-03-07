@@ -1,0 +1,44 @@
+Drinks,Starters,Mains,Desserts
+
+1,Drinks,Espresso,3.00
+2,Drinks,Americano,3.50
+3,Drinks,Cappuccino,4.50
+4,Drinks,Lemon Soda,3.25
+
+5,Starters,Bruschetta,8.99
+6,Starters,Garlic Bread,6.99
+7,Starters,Caprese Salad,9.49
+
+8,Mains,Margherita Pizza,14.99
+9,Mains,Pepperoni Pizza,16.49
+10,Mains,Fettuccine Alfredo,17.99
+11,Mains,Lasagna,18.99
+
+12,Desserts,Tiramisu,7.99
+13,Desserts,Panna Cotta,6.99
+14,Desserts,Chocolate Cannoli,6.49
+
+15,Drinks,Italian Sparkling Water,4.00
+16,Drinks,Iced Peach Tea,3.50
+
+17,Starters,Fried Calamari,12.99
+18,Starters,Mozzarella Sticks,8.49
+19,Starters,Stuffed Mushrooms,10.99
+
+20,Mains,Chicken Parmesan,19.99
+21,Mains,Spaghetti and Meatballs,16.99
+22,Mains,Shrimp Scampi,21.49
+23,Mains,Meat Lovers Pizza,18.99
+
+24,Desserts,New York Cheesecake,7.50
+25,Desserts,Warm Butter Cake,8.99
+26,Desserts,Gelato Flight,6.99
+
+31,Mains,Pasta Arrabbiata,15.49
+32,Mains,Basil Pesto Pasta,17.49
+33,Mains,Spaghetti Aglio e Olio,14.49
+34,Mains,Neapolitan Pizza,15.99
+35,Mains,Chicken Pesto Panini,13.99
+
+36,Desserts,Classic Affogato,6.50
+37,Desserts,Limoncello Tart,7.49
